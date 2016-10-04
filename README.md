@@ -1,3 +1,8 @@
+#Andrew You README: 
+Concepts utilized in this project: 
+- Manipulating regular expressions to count words, sentences and syllables in text. 
+
+#Coursera README: 
 /-------------------------------------------------------------------------
 / Starter Code and GUI Application for Course 2 in the
 / Java Programming: Object Oriented Design of 
